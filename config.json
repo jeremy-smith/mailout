@@ -1,0 +1,13 @@
+{
+  "from": "mail@example.com",
+  "fromName": "SenderName",
+  "subject": "Test!",
+  "attachments": [
+    {"type": "image/png", "fileName": "attachments/some_pic.png"},
+    {"type": "application/pdf", "fileName": "attachments/some_doc.pdf"}
+  ],
+  "useBCC": false,
+  "bccPerEmail": 1,
+  "recipientsFile": "recipients.txt",
+  "htmlEmailFile": "email.html"
+}

@@ -59,6 +59,8 @@ information about any errors the only the summary at the end.
     go mod vendor
     go build
 
+Or use the precompiled binaries in /bin
+
 ### Customize the email
 
 Edit `email.html` to suit your needs. Remember to inline CSS. You can read more here:

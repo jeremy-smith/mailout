@@ -1,5 +1,5 @@
 sendgrid.env
 attachments/
-email.html
 recipients.txt
 .idea
+vendor
